@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @savuvacar
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning bitcion
-- 💞️ I’m looking to collaborate on foundamental of bitcion
+- 🌱 I’m currently learning Data analysis 
+- 💞️ I’m looking to collaborate on foundamental of Data analysis 
 - 📫 How to reach me is via github and linkedin
 
 <!---
